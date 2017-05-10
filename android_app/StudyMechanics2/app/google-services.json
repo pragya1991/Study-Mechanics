@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "401360528702",
+    "firebase_url": "https://studymechanics.firebaseio.com",
+    "project_id": "studymechanics",
+    "storage_bucket": "studymechanics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401360528702:android:d13b308c56a3395f",
+        "android_client_info": {
+          "package_name": "com.appliedmechanics.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401360528702-sm6qgmkc70lufljr5go0llnubh9dgj60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appliedmechanics.debug",
+            "certificate_hash": "bed028b786caadf23188b77314752d1584a098ff"
+          }
+        },
+        {
+          "client_id": "401360528702-hckma0u24jo8bncjj7olo6d6c3g5fghi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNIrrRpt94eOAs-1xTJEBseCrP_uM67LY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401360528702-hckma0u24jo8bncjj7olo6d6c3g5fghi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401360528702:android:ccc3cda98e646c66",
+        "android_client_info": {
+          "package_name": "de.uni_saarland.studymechanics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401360528702-79hb68762jrt1ijb7f53r01cd17eeua0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.uni_saarland.studymechanics",
+            "certificate_hash": "bed028b786caadf23188b77314752d1584a098ff"
+          }
+        },
+        {
+          "client_id": "401360528702-hckma0u24jo8bncjj7olo6d6c3g5fghi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNIrrRpt94eOAs-1xTJEBseCrP_uM67LY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401360528702-hckma0u24jo8bncjj7olo6d6c3g5fghi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
